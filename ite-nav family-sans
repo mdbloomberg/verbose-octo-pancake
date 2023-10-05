@@ -1,0 +1,8 @@
+[33m2838aa4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m fixed merge issues with headlines
+[33m5c98695[m Removed text-reverse classes
+[33mdd2b5b7[m[33m ([m[1;32mfixheadline[m[33m)[m Fixed Headline on index page
+[33me8dc803[m Removed unwanted classes
+[33m0962ab2[m Simplified text-uppercase in all branches
+[33m9df8c34[m Moved files to docs folder
+[33m1811c90[m Added .gitignore file
+[33m229d826[m First Commit
